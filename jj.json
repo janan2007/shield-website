@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Shield Her Women's Safety App",
+  "version": "1.0",
+  "description": "A women's safety app to send alerts to guardians in emergency situations.",
+  "action": {
+    "default_popup": "jj.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
